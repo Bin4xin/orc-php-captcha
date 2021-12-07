@@ -9,13 +9,13 @@
 | :--- | :--- |
 | [php-traning-captcha](https://github.com/Bin4xin/orc-php-captcha/tree/master/php-traning-captcha) | OCR训练文件夹 |
 | [php-captcha](https://github.com/Bin4xin/orc-php-captcha/tree/master/php-captcha) | php验证码参考代码 |
-|  [xp_CAPTCHA](https://github.com/Bin4xin/orc-php-captcha/tree/master/xp_CAPTCHA) | OCR - BurPGui 接口 |
+|  [xp_CAPTCHA](https://github.com/Bin4xin/orc-php-captcha/tree/master/php-traning-captcha/xp_CAPTCHA) | OCR - BurPGui 接口 |
 
-## 一.总述
+## 一、总述
 
 `codecheck php`验证码程序。
 
-## 二.详解
+## 二、详解
 
 - ①index.html测试文件
 - ②CodeFactory.php产生五种图片验证码（即数字验证码、字符验证码、汉字验证码、仿谷歌验证码、算术表达式验证码）文件
@@ -23,11 +23,11 @@
 - ④official.ttf，汉字验证码中汉字所用字体文件
 - ⑤t1.ttf，仿谷歌验证码中字符所用字体文件
 
-## 三.php验证码原理
+## 三、php验证码原理
 
 先随机产生验证码上的内容，并将此内容写入session（方便后面校验），再使用php绘图技术绘制带有前面所产生内容的图片，并在图片上加上一些干扰线，最后输出图片。
 
-## OCR LOG
+## 四、OCR Logs
 
 | 时间 | 成功率 | 备注 |
 | :--- | :--- | :--- |
