@@ -7,9 +7,9 @@
 
 | 文件夹 | 用途 |
 | :--- | :--- |
-| [php-traning-captcha](https://github.com/Bin4xin/orc-php-captcha/tree/master/php-traning-captcha) | OCR训练文件夹 |
-| [php-captcha](https://github.com/Bin4xin/orc-php-captcha/tree/master/php-captcha) | php验证码参考代码 |
-|  [xp_CAPTCHA](https://github.com/Bin4xin/orc-php-captcha/tree/master/php-traning-captcha/xp_CAPTCHA) | OCR - BurPGui 接口 |
+| [php-traning-captcha](https://github.com/Bin4xin/orc-php-captcha/tree/main/php-traning-captcha) | OCR训练文件夹 |
+| [php-captcha-demo](https://github.com/Bin4xin/orc-php-captcha/tree/main/php-captcha-demo) | php验证码参考代码 |
+|  [xp_CAPTCHA](https://github.com/Bin4xin/orc-php-captcha/tree/main/php-traning-captcha/xp_CAPTCHA) | OCR - BurPGui 接口 |
 
 ## 一、总述
 
